@@ -1,6 +1,9 @@
 # 👋 Hola, soy Juan Manuel Toledo
 Soy un desarrollador web full-stack apasionado por crear aplicaciones eficientes y escalables. Tengo experiencia en **JavaScript**, **React**, **Node.js**, **MySQL**, y actualmente estoy aprendiendo **Python** y profundizando en **Linux**. Además, también desarrollo sitios web con **WordPress**. Me gusta enfrentar desafíos y ofrecer soluciones que agreguen valor.
 
+## 🎓 Formación
+- **Técnico Superior en Marketing y Publicidad**: Esta formación me ha brindado habilidades valiosas en áreas como comunicación efectiva, análisis de audiencias, y estrategias digitales, que complementan mi enfoque en el desarrollo web.
+
 ## 🛠️ Tecnologías y Herramientas
 - **Lenguajes**: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![Node.js](https://img.shields.io/badge/-Node.js-green) ![Python](https://img.shields.io/badge/-Python-blue)
 - **Frontend**: ![React](https://img.shields.io/badge/-React-blue) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple)
@@ -11,7 +14,6 @@ Soy un desarrollador web full-stack apasionado por crear aplicaciones eficientes
 
 ## 🚀 Proyectos Destacados
 - **[Sistema de gestión de turnos](https://github.com/tu-repo)**: Aplicación completa para gestionar turnos en un salón de belleza, con funcionalidad de CRUD, roles de usuario, y visualización de ganancias.
-- **[Educación Vial para niños](https://github.com/tu-repo)**: Plataforma educativa interactiva sobre seguridad vial utilizando Astro, Google Sheets y LottieFiles.
 - **[Desarrollo web con WordPress](https://github.com/tu-repo)**: Creación y personalización de sitios web usando WordPress para pequeños negocios y emprendimientos.
 
 ## 📊 Mis estadísticas de GitHub
