@@ -4,7 +4,7 @@ Soy un desarrollador web full-stack apasionado por crear aplicaciones eficientes
 ## 🛠️ Tecnologías y Herramientas
 - **Lenguajes**: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![Node.js](https://img.shields.io/badge/-Node.js-green) ![Python](https://img.shields.io/badge/-Python-blue)
 - **Frontend**: ![React](https://img.shields.io/badge/-React-blue) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple)
-- **Backend**: ![Express](https://img.shields.io/badge/-Express-black) ![MySQL](https://img.shields.io/badge/-MySQL-lightblue)
+- **Backend**: ![Express](https://img.shields.io/badge/-Express-000000) ![MySQL](https://img.shields.io/badge/-MySQL-lightblue)
 - **CMS**: ![WordPress](https://img.shields.io/badge/-WordPress-blue)
 - **Otros**: **MySQL Workbench**, Git, APIs REST, JWT, bcrypt
 - **Sistemas operativos**: Linux
