@@ -19,9 +19,9 @@ Soy un desarrollador web full-stack de **Posadas, Misiones, Argentina**. Tengo e
 
 ## 🚀 Proyectos Destacados
 - **[Sistema de gestión de turnos](https://github.com/tu-repo)**: Aplicación completa para gestionar turnos en un salón de belleza, con funcionalidad de CRUD, roles de usuario, y visualización de ganancias.
-- **[Sistema de detección facial para empresas](https://github.com/tu-repo)**: Proyecto basado en **React**, **Face API**, y **Node.js** para la detección de rostros.
+- **[Educación Vial para niños](https://github.com/tu-repo)**: Plataforma educativa interactiva sobre seguridad vial utilizando Astro, Google Sheets y LottieFiles.
 - **[Desarrollo web con WordPress](https://github.com/tu-repo)**: Creación y personalización de sitios web usando WordPress para pequeños negocios y emprendimientos.
-
+- 
 ## 📊 Mis estadísticas de GitHub
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=juantoledo1&show_icons=true&theme=radical)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=juantoledo1&layout=compact&theme=radical)
