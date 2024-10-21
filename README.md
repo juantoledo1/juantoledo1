@@ -19,7 +19,7 @@ Soy un desarrollador web full-stack de **Posadas, Misiones, Argentina**. Tengo e
 
 ## 🚀 Proyectos Destacados
 - **[Sistema de gestión de turnos](https://github.com/tu-repo)**: Aplicación completa para gestionar turnos en un salón de belleza, con funcionalidad de CRUD, roles de usuario, y visualización de ganancias.
-- **[Educación Vial para niños](https://github.com/tu-repo)**: Plataforma educativa interactiva sobre seguridad vial utilizando Astro, Google Sheets y LottieFiles.
+- **[Educación Vial para niños](https://github.com/tu-repo)**: Plataforma educativa interactiva sobre seguridad vial utilizando Astro.
 - **[Desarrollo web con WordPress](https://github.com/tu-repo)**: Creación y personalización de sitios web usando WordPress para pequeños negocios y emprendimientos.
 - 
 ## 📊 Mis estadísticas de GitHub
