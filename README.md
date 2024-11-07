@@ -15,18 +15,21 @@ Soy un desarrollador web full-stack de **Posadas, Misiones, Argentina**. Tengo e
 - **Backend**: ![Express](https://img.shields.io/badge/-Express-000000) ![MySQL](https://img.shields.io/badge/-MySQL-lightblue)
 - **CMS**: ![WordPress](https://img.shields.io/badge/-WordPress-blue)
 - **Otros**: **MySQL Workbench**, Git, APIs REST, JWT, bcrypt
-- **Sistemas operativos**: Linux
+- **Sistemas operativos**: Linux, Windows
 
 ## 🚀 Proyectos Destacados
 - **[Sistema de gestión de turnos](https://github.com/tu-repo)**: Aplicación completa para gestionar turnos en un salón de belleza, con funcionalidad de CRUD, roles de usuario, y visualización de ganancias.
 - **[Educación Vial para niños](https://github.com/tu-repo)**: Plataforma educativa interactiva sobre seguridad vial utilizando Astro.
 - **[Desarrollo web con WordPress](https://github.com/tu-repo)**: Creación y personalización de sitios web usando WordPress para pequeños negocios y emprendimientos.
-- 
+
+### 🎮 Proyectos de Juegos
+- **[Sonic Runner - Juego 2D](https://github.com/tu-repo)**: Juego desarrollado siguiendo el tutorial de FreeCodeCamp, basado en el clásico "Sonic Runner". Implementado en JavaScript utilizando el canvas HTML5, donde puse en práctica conceptos de programación de juegos como animaciones, colisiones y control de personajes.
+
 ## 📊 Mis estadísticas de GitHub
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=juantoledo1&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=juantoledo1&layout=compact&theme=radical)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=juantoledo1&show_icons=true&theme=gruvbox)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=juantoledo1&layout=compact&theme=gruvbox)
+![Contribuciones](https://github-readme-stats.vercel.app/api/wakatime?username=juantoledo1)
 
 ## 📫 ¿Cómo contactarme?
 - **Email**: juanmanueltoledo0487@gmail.com
 - **LinkedIn**: [Juan Manuel Toledo](https://www.linkedin.com/in/juantoledo1)
-
