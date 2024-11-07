@@ -26,9 +26,8 @@ Soy un desarrollador web full-stack de **Posadas, Misiones, Argentina**. Tengo e
 - **[Sonic Runner - Juego 2D](https://github.com/tu-repo)**: Juego desarrollado siguiendo el tutorial de FreeCodeCamp, basado en el clásico "Sonic Runner". Implementado en JavaScript utilizando el canvas HTML5, donde puse en práctica conceptos de programación de juegos como animaciones, colisiones y control de personajes.
 
 ## 📊 Mis estadísticas de GitHub
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=juantoledo1&show_icons=true&theme=gruvbox)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=juantoledo1&layout=compact&theme=gruvbox)
-![Contribuciones](https://github-readme-stats.vercel.app/api/wakatime?username=juantoledo1)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=juantoledo1&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=juantoledo1&layout=compact&theme=radical)
 
 ## 📫 ¿Cómo contactarme?
 - **Email**: juanmanueltoledo0487@gmail.com
