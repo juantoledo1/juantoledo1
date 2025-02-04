@@ -4,6 +4,7 @@ Soy un desarrollador web full-stack de **Posadas, Misiones, Argentina**. Tengo e
 ## 🎓 Formación
 - **Técnico Superior en Marketing y Publicidad**: Esta formación me ha brindado habilidades valiosas en áreas como comunicación efectiva, análisis de audiencias, y estrategias digitales.
 - **Cursos**:
+  - **Technical Support Fundamentals** - Google (2024)
   - **Programación web full-stack** - Silicon Misiones (2023)
   - **Inglés en el mundo IT** - Polo Tic Misiones (2023)
   - **Bases de datos desde cero** - Polo Tic Misiones (2022)
@@ -18,9 +19,10 @@ Soy un desarrollador web full-stack de **Posadas, Misiones, Argentina**. Tengo e
 - **Sistemas operativos**: ![Linux](https://img.shields.io/badge/-Linux-black) ![Windows](https://img.shields.io/badge/-Windows-blue)
 
 ## 🚀 Proyectos Destacados
+- **[Pagina web para peluqueria](https://juantoledopeluquero.netlify.app/)**:
 - **[Sistema de gestión de turnos](https://github.com/tu-repo)**: Aplicación completa para gestionar turnos en un salón de belleza, con funcionalidad de CRUD, roles de usuario, y visualización de ganancias.
 - **[Educación Vial para niños](https://github.com/tu-repo)**: Plataforma educativa interactiva sobre seguridad vial utilizando Astro.
-- **[Desarrollo web con WordPress](https://github.com/tu-repo)**: Creación y personalización de sitios web usando WordPress para pequeños negocios y emprendimientos.
+- **[Desarrollo web con WordPress](https://paliachi.com/)**: Creación y personalización de sitios web usando WordPress para pequeños negocios y emprendimientos.
 
 - ## 🎮 Proyectos de Juegos
 - **[Sonic Runner - Juego 2D](https://github.com/tu-repo)**: Juego desarrollado siguiendo el tutorial de FreeCodeCamp, basado en el clásico "Sonic Runner". Implementado en JavaScript utilizando el canvas HTML5, donde puse en práctica conceptos de programación de juegos como animaciones, colisiones y control de personajes.
