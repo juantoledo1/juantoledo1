@@ -24,6 +24,7 @@ Soy un desarrollador web full-stack de **Posadas, Misiones, Argentina**. Tengo e
 
 - ## 🎮 Proyectos de Juegos
 - **[Sonic Runner - Juego 2D](https://github.com/tu-repo)**: Juego desarrollado siguiendo el tutorial de FreeCodeCamp, basado en el clásico "Sonic Runner". Implementado en JavaScript utilizando el canvas HTML5, donde puse en práctica conceptos de programación de juegos como animaciones, colisiones y control de personajes.
+Aca dejo el link por si quieren jugarlo: https://videojuego-sonic-runner.vercel.app
 
 ## 📊 Mis estadísticas de GitHub
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=juantoledo1&show_icons=true&theme=radical)
