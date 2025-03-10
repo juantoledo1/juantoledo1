@@ -20,9 +20,9 @@ Soy un desarrollador web full-stack de **Posadas, Misiones, Argentina**. Tengo e
 - **Sistemas operativos**: ![Linux](https://img.shields.io/badge/-Linux-black) ![Windows](https://img.shields.io/badge/-Windows-blue)
 
 ## 🚀 Proyectos Destacados
-- **[Pagina web para peluqueria](https://juantoledopeluquero.netlify.app/)**: Hacer click para ver...
+- **[Pagina web para peluqueria](https://juantoledopeluquero.netlify.app/)**: Hacer click para ver... Pagina web para peluqueria.
 - **[Sistema de gestión de turnos](https://github.com/tu-repo)**: Aplicación completa para gestionar turnos en un salón de belleza, con funcionalidad de CRUD, roles de usuario, y visualización de ganancias.
-- **[Educación Vial para niños](https://github.com/tu-repo)**: Plataforma educativa interactiva sobre seguridad vial utilizando Astro.
+- **[Educación Vial para niños](https://educacion-vial-kids.netlify.app/)**: Hacer click para ver... Plataforma educativa interactiva sobre seguridad vial utilizando Astro.
 - **[Desarrollo web con WordPress](https://paliachi.com/)**: Hacer click para ver...Creación y personalización de sitios web usando WordPress para pequeños negocios y emprendimientos.
 
 - ## 🎮 Proyectos de Juegos
