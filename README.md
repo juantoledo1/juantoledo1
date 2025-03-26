@@ -27,7 +27,7 @@ Soy un desarrollador web full-stack de **Posadas, Misiones, Argentina**. Tengo e
 - **[Desarrollo web con WordPress](https://paliachi.com/)**: Hacer click para ver...Creación y personalización de sitios web usando WordPress para pequeños negocios y emprendimientos.
 
 - ## 🎮 Proyectos de Juegos
-- **[Sonic Runner - Juego 2D](https://github.com/tu-repo)**: Juego desarrollado siguiendo el tutorial de FreeCodeCamp, basado en el clásico "Sonic Runner". Implementado en JavaScript utilizando el canvas HTML5, donde puse en práctica conceptos de programación de juegos como animaciones, colisiones y control de personajes.
+- **[Sonic Runner - Juego 2D](https://youtu.be/HI31L_iSAIghttps://youtu.be/HI31L_iSAIg)**: Juego desarrollado siguiendo el tutorial de FreeCodeCamp, basado en el clásico "Sonic Runner". Implementado en JavaScript utilizando el canvas HTML5, donde puse en práctica conceptos de programación de juegos como animaciones, colisiones y control de personajes.
 Aca dejo el link por si quieren jugarlo: https://videojuego-sonic-runner.vercel.app
 
 ## 📊 Mis estadísticas de GitHub
