@@ -4,6 +4,7 @@ Soy un desarrollador web full-stack de **Posadas, Misiones, Argentina**. Tengo e
 ## 🎓 Formación
 - **Técnico Superior en Marketing y Publicidad**: Esta formación me ha brindado habilidades valiosas en áreas como comunicación efectiva, análisis de audiencias, y estrategias digitales.
 - **Cursos**:
+  - **Fundamentos de Ciberseguridad (Cybersecurity Essentials)** de Cisco Networking Academy (2025)
   - **Técnico en Ciberseguridad** - Academia de Ciberseguridad (2025)
   - **Introducción a Ciberseguridad** - Cisco Networking Academy. (2025)
   - **Technical Support Fundamentals** - Google (2024)
