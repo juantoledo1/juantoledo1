@@ -1,27 +1,27 @@
-# 👋 Hola, soy Juan Manuel Toledo
+# 👋 Hi, I'm Juan Manuel Toledo
 
-Soy **Full Stack Developer** de Misiones, Argentina.
+I'm a **Full Stack Developer** based in Posadas, Misiones, Argentina.
 
-Me dedico al desarrollo de software, infraestructura y soluciones digitales orientadas a resolver necesidades reales de negocios. Trabajo principalmente en el ecosistema **TypeScript (React, Node.js, NestJS)** y **Python (FastAPI)**, combinando el desarrollo de código con una sólida base en administración de sistemas **Linux** y **Ciberseguridad**.
+I specialize in developing robust software architecture, secure infrastructure, and digital solutions designed to solve real-world business needs. My main tech stack includes **TypeScript (React, Node.js, NestJS)** and **Python (FastAPI)**, combined with solid foundations in **Linux** systems administration and **Cybersecurity**.
 
-Cuento con formación como Técnico Superior en Marketing y Publicidad, lo que me aporta una visión estratégica para entender el producto de software desde la perspectiva del negocio, los objetivos comerciales y la usabilidad del cliente final.
+I also hold an Associate Degree in Marketing and Advertising, which provides me with a strategic business perspective. This allows me to understand software development not just as code, but from product usability, market fit, and client-centric growth viewpoints.
 
-## 🎓 Formación
+## 🎓 Education & Certifications
 
-- **Curso Universitario en Ciberseguridad** - Red Internacional de Ciberseguridad | Avalado por la UNDEF - Universidad de la Defensa Nacional (2026)
+- **University Course in Cybersecurity** - International Cybersecurity Network | Certified by UNDEF - National Defense University, Argentina (2026)
 - **CyberOps Associate** - Cisco Networking Academy (2025)
 - **Networking Essentials** - Cisco Networking Academy (2025)
-- **Fundamentos de Ciberseguridad** - Cisco Networking Academy (2025)
-- **Técnico en Ciberseguridad** - Academia de Ciberseguridad (2025)
+- **Cybersecurity Fundamentals** - Cisco Networking Academy (2025)
+- **Cybersecurity Technician** - Cybersecurity Academy (2025)
 - **Technical Support Fundamentals** - Google (2024)
-- **Programación Web Full Stack** - Silicon Misiones (2023)
-- **Inglés en el Mundo IT** - Polo TIC Misiones (2023)
-- **Bases de Datos desde Cero** - Polo TIC Misiones (2022)
-- **Introducción a la Programación** - Silicon Misiones (2022)
+- **Full Stack Web Development** - Silicon Misiones (2023)
+- **English for IT** - Polo TIC Misiones (2023)
+- **Databases from Scratch** - Polo TIC Misiones (2022)
+- **Introduction to Programming** - Silicon Misiones (2022)
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Tech Stack & Tools
 
-### Lenguajes
+### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### Frontend
@@ -30,57 +30,54 @@ Cuento con formación como Técnico Superior en Marketing y Publicidad, lo que m
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 
-### Bases de Datos
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### DevOps, Infraestructura y Herramientas
+### DevOps, Infrastructure & Tools
 `Linux (CLI)` · `Docker` · `Docker Compose` · `Git` · `Prisma ORM` · `MySQL Workbench` · `REST APIs` · `JWT` · `BCrypt`
 
 ### CMS
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
----
-
-## 🚀 Proyectos Principales (Próximos a Producción / Comercialización)
-
-### 🏢 [Sistema de Gestión para Centros de Bienestar](https://github.com/juantoledo1/Flowmint_system_saas)
-Aplicación SaaS completa para la administración integral de turnos, gestión de clientes, control de empleados, servicios y reportes de ingresos económicos.
-- **Estado actual:** Desplegado en entorno de stage/pruebas, optimizando detalles finales previo a su lanzamiento comercial.
-- **Stack:** React, NestJS, TypeScript, PostgreSQL, Prisma ORM y Docker.
-
-### 🏥 [Sistema de Gestión Médica](https://github.com/juantoledo1/sistMedico)
-Plataforma orientada a la salud para la administración interna de guardias médicas, control de actividades académicas e ingresos financieros de profesionales de la salud.
-- **Estado actual:** Arquitectura finalizada, próximo a despliegue en entorno de pruebas y validación final para su posterior comercialización.
-- **Stack:** React, FastAPI (Python), MongoDB y Docker.
+### Operating Systems
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 ---
 
-## 💻 Otros Desarrollos y Prácticas
+## 🚀 Featured Projects
 
-### 🚦 [Educación Vial para Niños](https://educacion-vial-kids.netlify.app/)
-Plataforma interactiva y educativa diseñada para el aprendizaje de normas de tránsito y seguridad vial en la niñez. Desarrollada con enfoque en rendimiento y accesibilidad.
-- **Stack:** Astro y JavaScript.
+### 🏢 [Wellness Centers Management System (Flowmint)](https://github.com/juantoledo1/Flowmint_system_saas)
+A Full Stack SaaS application built for comprehensive appointment scheduling, client tracking, employee shifts control, services management, and financial revenue reporting.
+- **Stack:** React, NestJS, TypeScript, PostgreSQL, Prisma ORM, and Docker.
 
-### 🍦 [Paliachi Helados](https://paliachi.com/)
-Rediseño de sitio web comercial optimizado para SEO, velocidad de carga y experiencia de usuario (UX) para potenciar la presencia digital de la marca.
-- **Stack:** WordPress (Customización y Optimización).
-
-### 🌐 [Betelgeuse](https://betelgeusee.netlify.app/)
-Landing page desarrollada a medida para el sector estético (salón de belleza), implementando interfaces dinámicas y optimización responsiva.
-- **Stack:** HTML5, CSS3 y JavaScript.
+### 🏥 [Medical Management System](https://github.com/juantoledo1/sistMedico)
+A healthcare-oriented platform developed for internal management of medical shifts, academic activities tracking, and healthcare professionals' earnings analytics.
+- **Stack:** React, FastAPI (Python), MongoDB, and Docker.
 
 ### 🎮 [Sonic Runner - 2D Canvas Game](https://sonic-runner1.netlify.app/)
-Proyecto de práctica enfocado en las bases del desarrollo de videojuegos en la web. Implementación de lógicas de colisión, renderizado en tiempo real, manejo del ciclo del juego (game loop) y animaciones utilizando la API nativa de Canvas.
+An interactive 2D web game based on the classic "Sonic Runner". Built directly on top of the native HTML5 Canvas API, implementing core game programming concepts such as the game loop, dynamic collision detection, real-time rendering, and character sprite animation state machines.
 - **Stack:** JavaScript (HTML5 Canvas).
+
+### 🚦 [Traffic Education for Kids](https://educacion-vial-kids.netlify.app/)
+An interactive educational platform designed to teach traffic rules and road safety to children, focusing on high performance, seamless responsiveness, and web accessibility.
+- **Stack:** Astro and JavaScript.
+
+### 🍦 [Paliachi Ice Cream Shop](https://paliachi.com/)
+Commercial website redesign focused on page speed, SEO optimization, and smooth User Experience (UX) to scale the brand's digital presence.
+- **Stack:** WordPress (Custom Development & Core Web Vitals Optimization).
+
+### 🌐 [Betelgeuse](https://betelgeusee.netlify.app/)
+Tailor-made landing page built for a beauty and hair salon sector, showcasing dynamic UI components, fully responsive layouts, and cross-browser optimization.
+- **Stack:** HTML5, CSS3, and JavaScript.
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Analytics
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=juantoledo1&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=juantoledo1&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juantoledo1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juantoledo1&layout=compact&theme=radical)
 
-## 📫 Contacto
+## 📫 Connect with me
 
 - 🌐 **Portfolio:** [juantoledo-dev.netlify.app](https://juantoledo-dev.netlify.app)
 - 💼 **LinkedIn:** [linkedin.com/in/juantoledo1](https://www.linkedin.com/in/juantoledo1)
